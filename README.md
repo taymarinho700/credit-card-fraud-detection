@@ -52,4 +52,4 @@ Ao ajustar o limiar de decisão de 0.50 para 0.01, o modelo passou a priorizar a
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/taymarinho700/credit-card-fraud-detection.git](https://github.com/taymarinho700/credit-card-fraud-detection.git)
+  git clone https://github.com/taymarinho700/credit-card-fraud-detection.git
